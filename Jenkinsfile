@@ -12,6 +12,7 @@ pipeline {
 
 
                 echo "Build"
+				echo "building in process"
 
             }
 
